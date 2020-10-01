@@ -1,7 +1,8 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const Footer = ({legalText}) => {
+const Footer = (props) => {
+  const {legalText} = props;
   return (
     <View style={styles.footerContainer}>
       <Text style={styles.footerText}>{legalText}</Text>
