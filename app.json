@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-goals-app",
-    "slug": "my-goals-app",
+    "name": "Retro Game Hunt",
+    "slug": "retro-game-hunt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
