@@ -4,7 +4,7 @@ This app is created using React Native and Expo CLI.
 
 The main purpose of this app is to keep track of your Retro Game Collection, in this version you can enter a game or delete a game.
 
-** TO RUN THE PROJECT
+### TO RUN THE PROJECT
 
 Download the repo.
 
